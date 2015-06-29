@@ -23,7 +23,7 @@
               <addClasspath>true</addClasspath>
             </manifest>
             <manifestEntries>
-              <mainClass>com.example.hellomaven.HelloMavenMain.class</mainClass>
+              <Main-Class>com.example.hellomaven.HelloMavenMain.class</Main-Class>
               <mode>development</mode>
               <url>${project.url}</url>
               <key>value</key>
