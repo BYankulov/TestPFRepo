@@ -23,6 +23,7 @@
               <addClasspath>true</addClasspath>
             </manifest>
             <manifestEntries>
+              <Class-Path>%M2_HOME%\repository\org\slf4j\slf4j-api\1.6.4\slf4j-api-1.6.4.jar; %M2_HOME%\repository\org\slf4j\slf4j-simple\1.6.4\slf4j-simple-1.6.4</Class-Path>
               <Main-Class>com.example.hellomaven.HelloMavenMain</Main-Class>
               <mode>development</mode>
               <url>${project.url}</url>
