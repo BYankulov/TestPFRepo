@@ -21,6 +21,7 @@
             <index>true</index>
             <manifest>
               <addClasspath>true</addClasspath>
+              <classpathPrefix>%M2_REPO%</classpathPrefix>
               <classpathLayoutType>repository</classpathLayoutType>
             </manifest>
             <manifestEntries>
