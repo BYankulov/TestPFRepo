@@ -26,7 +26,6 @@
             <index>true</index>
             <manifest>
               <addClasspath>true</addClasspath>
-              <classpathPrefix>C:\apache-maven-3.3.3\repository\</classpathPrefix>
               <classpathLayoutType>repository</classpathLayoutType>
             </manifest>
             <manifestEntries>
